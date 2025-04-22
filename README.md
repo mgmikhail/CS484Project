@@ -14,3 +14,8 @@ All the programs take data from the filepath which is hardcoded in the very begi
 Output:
 - graph showing predicted data vs. test data
 - MSE, MAE, and R^2 values
+
+
+Dependencies:
+Dependencies can be installed using the following line:
+pip install pandas scikit-learn numpy tensorflow joblib matplotlib
