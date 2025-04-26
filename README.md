@@ -11,7 +11,7 @@ This project explores the use of Recurrent Neural Networks (RNNs)help predict th
 The results highlight both the potential and the limitations of using machine learning for stock market prediction. While general trends can be modeled, the inherently unpredictable nature of the stock market,especially during volatile periods, is challenging.<br>
 
 <h2>Files</h2><br>
-[lstm1.1](main/lstm1.1): basic LSTM model with no additional features (S&P) <br>
+[lstm1.1](main/lstm1.1.py): basic LSTM model with no additional features (S&P) <br>
 lstm1: LSTM model with EMA as a parameter (S&P)<br>
 lstm1Bitcoin: LSTM model with EMA, set up to preprocess Bitcoin Historical Data<br>
 lstm1withVolatility: LSTM model with EMA and volatility metric (S&P)<br>
